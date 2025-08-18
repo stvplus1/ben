@@ -3,4 +3,5 @@
 http://159.69.15.196/upload/images/logo5.zip
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=832x468
-http://162.55.51.40/upload/images/logo5.zip
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=560x360
+https://rashaba.com/upload/videos/2025/06/gUAFh41BjuiosJz/n4FwG2yLtWlUCEuMHi6J_29_1e9142adab05be6914651f6873f02e1a_video_360p_converted.m3u8
