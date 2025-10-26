@@ -1,9 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://4kplus.info//live/NAJIBRABAT_478815/JIBcc8NP/534830.m3u8
+http://portal.geniptv.com:8080/dmtndmtnkimo/live/a7GPMeArdf/98059.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
 http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
