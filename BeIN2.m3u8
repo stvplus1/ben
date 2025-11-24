@@ -1,3 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1921x1080
+http://st1activ.com//live/tarek50/hyfhdyier/391095.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720
 https://stream.supertv.gg:3008/supertv/sport/stv2/ch2/ch2_720.m3u8
