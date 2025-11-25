@@ -1,3 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x720
-http://134.19.178.202/bein-4/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://stream.supertv.gg:3003/supertv/sport/stv4/ch4/ch4_1080.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720
+https://stream.supertv.gg:3003/supertv/sport/stv4/ch4/ch4_720.m3u8
