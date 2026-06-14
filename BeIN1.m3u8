@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
 
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/x5w9TgB2pAfFAKl33EGWFFNsoVn2VV4lP2uKxPSYDjkUKJxiY4tx75KZFqGWGFwBpVJzzirJvWQQ3ayJ3h7qyA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+http://51.159.19.161:8000//live/rapid/HW1khMXS1M/4428.m3u8
 
